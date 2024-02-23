@@ -1,0 +1,22 @@
+.match-card {
+    background: white; /* Blue & green for soccer */
+    border: 1px solid #fff; /* White border */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.2s ease-in-out;
+    height: 7cm;
+    width: 6cm;
+}
+  
+  .score {
+    font-weight: bold;
+    color: #0f0e0e; /* White text */
+  }
+  
+  .team-logo {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 10px;
+  }
+  
